@@ -1,0 +1,15 @@
+.landingPage {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  background: black;
+}
+
+.landingPage__jumbotron {
+  border: 3px solid grey;
+  border-radius: 10px;
+  padding: 40px;
+}
